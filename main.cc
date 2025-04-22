@@ -5,7 +5,7 @@ void my_sort(int arr[],int sizes)
 {
   
   printf("排序成功");
-  "远程修改"
+  "学习分支"
 }
 
 int main()
