@@ -1,2 +1,2 @@
-Creating a new branch is quick.
-
+12345678
+Creating a new branch is quick AND simple.
